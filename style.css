@@ -1,6 +1,7 @@
 body{
 background-color: rgb(80, 73, 66);
 display: flex;
+font-family: sans-serif;
 }
 
 article {
